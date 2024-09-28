@@ -1,0 +1,8 @@
+
+/* div with class container, then selecting all elements with class text*/
+.container > .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
